@@ -15,8 +15,6 @@ subtitle: 数据科学与大数据技术学生
 ## 联系方式
 
 - **个人邮箱**：yufeng_23@163.com
-- **GitHub**：[https://github.com/stulyf]
-
 ---
 
 > "Patience is key in life." — [Jared Maccain]
