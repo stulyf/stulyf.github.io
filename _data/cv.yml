@@ -2,30 +2,87 @@ cv:
   name: Yu-Feng Li
   location: Guangzhou, China
   email: stulyf23@gmail.com
+  phone: "+8613602360108"
   social_networks:
     - network: GitHub
       username: stulyf
 
   sections:
     Summary:
-      - Undergraduate student at South China University of Technology, passionate about programming, data science, and machine learning.
+      - Undergraduate student majoring in Data Science and Big Data Technology at South China University of Technology. GPA 3.77/4.0. Passionate about deep learning, reinforcement learning, and LLM applications.
 
     Education:
       - institution: South China University of Technology
         location: Guangzhou, China
-        area: Computer Science
+        area: Data Science and Big Data Technology
         degree: Bachelor
         start_date: 2023-09
         end_date: present
         highlights:
-          - Passionate about programming, data science, and machine learning.
+          - "GPA: 3.77/4.0"
+          - "Core courses: C++ Programming (4.0), Python (4.0), Calculus (4.0), Computer Networks (4.0), Database Systems (4.0), Operating Systems (4.0), LLM & AI (4.0)"
+
+    Projects:
+      - name: AI Mathematical Olympiad - Progress Prize 2
+        location: Kaggle Silver Medal
+        start_date: 2025-04
+        highlights:
+          - Trained SFT model on 4K math reasoning data with LoRA fine-tuning on Deepseek-R1-Distill-Qwen-14B, achieving ~8% accuracy improvement
+          - Built 2K DPO preference data to optimize for correct and shorter outputs, gaining ~2% accuracy with ~8% shorter output length
+          - "Ranked 78th out of 2214 teams, earning a Kaggle Silver Medal"
+
+      - name: "LLM & AI Engineering: College Intelligent Assistant"
+        start_date: 2025-05
+        highlights:
+          - Designed intent recognition and query rewriting modules, improving student satisfaction to 96% (+18% over baseline)
+          - Built hybrid retrieval framework with chunk-based semantic segmentation, multi-path recall, and reranking
+          - Used self-instruct strategy to generate 10K+ SFT samples, fine-tuned Qwen2.5-14B-Instruct with LoRA
+          - "Achieved 1st place in course project evaluation"
+
+    Publications:
+      - title: "MARGA: Multi-agent Relative Geometric-aware Attention with Entropy-sequential Decision for Team Orienteering Problem"
+        authors:
+          - "***Yu-Feng Li***"
+        journal: IEEE T-ASE (under review)
+        date: 2025-08
+
+    Experience:
+      - company: South China University of Technology
+        position: Research Intern (supervised by Prof. Yahui Jia)
+        location: Guangzhou, China
+        start_date: 2025-01
+        end_date: present
+
+      - company: South China University of Technology
+        position: Research Intern (supervised by Prof. Xiaowei Hu)
+        location: Guangzhou, China
+        start_date: 2025-11
+        end_date: present
+
+      - company: Tencent
+        position: Rhino-Bird Open Source Talent Program - Outstanding Student
+        start_date: 2025-08
+        end_date: 2025-08
+
+      - company: Baidu PaddlePaddle Elite Program (3rd Cohort)
+        position: Student
+        location: South China University of Technology
+        start_date: 2024-12
+        end_date: present
+
+      - company: National University of Singapore
+        position: Summer School - Distinction
+        start_date: 2024-07
+        end_date: 2024-07
+
+    Awards:
+      - bullet: "2024 Future Technology Taihu Scholarship - Innovation Award (5000 RMB)"
+      - bullet: "2024 MCM/ICM Honorable Mention"
 
     Skills:
       - label: Programming
-        details: "Python, Data Science, Machine Learning"
-
-    Interests:
-      - label: Data Science & Machine Learning
-        details: "Data Analysis, Deep Learning, Reinforcement Learning"
-      - label: Software Development
-        details: "Web Development, Open Source, Automation"
+        details: "C++, Python"
+      - label: AI/ML
+        details: "Deep Learning, Reinforcement Learning, LLM Fine-tuning (LoRA, SFT, DPO)"
+      - label: Languages
+        details: "English (CET-4: 640, CET-6: 530)"

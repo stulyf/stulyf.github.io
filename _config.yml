@@ -9,14 +9,14 @@ last_name: Li
 contact_note: >
   Feel free to reach me via email.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Personal academic website of Yu-Feng Li, undergraduate student at South China University of Technology.
+  Personal academic website of Yu-Feng Li, undergraduate student in Data Science and Big Data Technology at South China University of Technology.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
 lang: zh # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: scut.jpg # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://stulyf.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
