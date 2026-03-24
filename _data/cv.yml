@@ -10,34 +10,23 @@ cv:
     - network: GitHub
       username: stulyf
 
-  address:
-    city: Guangzhou
-    region: Guangdong
-    countryCode: CN
-
   sections:
     Education:
       - institution: South China University of Technology
         location: Guangzhou, China
-        url: https://www.scut.edu.cn/
-        area: ""
-        studyType: Bachelor
-        start_date: "2023-09-01"
+        area: Computer Science
+        degree: Bachelor
+        start_date: 2023-09
         end_date: present
         highlights:
           - Passionate about programming, data science, and machine learning.
 
     Skills:
-      - name: Programming
-        level: ""
-        icon: fa-solid fa-code
-        keywords: "Python, Data Science, Machine Learning"
+      - label: Programming
+        details: "Python, Data Science, Machine Learning"
 
     Interests:
-      - name: Data Science & Machine Learning
-        icon: fa-solid fa-robot
-        keywords: "Data Analysis, Deep Learning, Reinforcement Learning"
-
-      - name: Software Development
-        icon: fa-solid fa-laptop-code
-        keywords: "Web Development, Open Source, Automation"
+      - label: Data Science & Machine Learning
+        details: "Data Analysis, Deep Learning, Reinforcement Learning"
+      - label: Software Development
+        details: "Web Development, Open Source, Automation"
