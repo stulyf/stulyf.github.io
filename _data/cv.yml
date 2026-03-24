@@ -47,23 +47,6 @@ cv:
         date: 2025-08
 
     Experience:
-      - company: South China University of Technology
-        position: Research Intern (supervised by Prof. Yahui Jia)
-        location: Guangzhou, China
-        start_date: 2025-01
-        end_date: present
-
-      - company: South China University of Technology
-        position: Research Intern (supervised by Prof. Xiaowei Hu)
-        location: Guangzhou, China
-        start_date: 2025-11
-        end_date: present
-
-      - company: Tencent
-        position: Rhino-Bird Open Source Talent Program - Outstanding Student
-        start_date: 2025-08
-        end_date: 2025-08
-
       - company: Baidu PaddlePaddle Elite Program (3rd Cohort)
         position: Student
         location: South China University of Technology
