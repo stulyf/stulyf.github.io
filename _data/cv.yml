@@ -1,16 +1,15 @@
 cv:
   name: Yu-Feng Li
-  label: Undergraduate Student
-  email: stulyf23@gmail.com
   location: Guangzhou, China
-  image: ""
-  summary: Undergraduate student at South China University of Technology, passionate about programming, data science, and machine learning.
-
+  email: stulyf23@gmail.com
   social_networks:
     - network: GitHub
       username: stulyf
 
   sections:
+    Summary:
+      - Undergraduate student at South China University of Technology, passionate about programming, data science, and machine learning.
+
     Education:
       - institution: South China University of Technology
         location: Guangzhou, China
