@@ -22,9 +22,10 @@ cv:
         url: https://www.scut.edu.cn/
         area: ""
         studyType: Bachelor
-        start_date: 2023
+        start_date: "2023-09-01"
         end_date: present
-        highlights: []
+        highlights:
+          - Passionate about programming, data science, and machine learning.
 
     Skills:
       - name: Programming
