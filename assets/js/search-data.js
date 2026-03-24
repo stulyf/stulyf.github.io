@@ -33,7 +33,12 @@ ninja.data = [{
         },{id: "news-welcome-to-my-personal-website",
           title: 'Welcome to my personal website! 🎉',
           description: "",
-          section: "News",},{
+          section: "News",},{id: "projects-rlovrp",
+          title: 'RLOVRP',
+          description: "Online Mobile Charging Vehicle Scheduling with Heuristic Algorithms and DQN Reinforcement Learning",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/1_rlovrp/";
+            },},{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
