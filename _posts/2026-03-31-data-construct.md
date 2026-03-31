@@ -1,7 +1,7 @@
 ---
 layout: post
 title: LLM 造数据的经验
-date: 2026-03-31 16:02:00
+date: 2026-03-31 00:00:00 +0800
 description: 关于llm实践中造数据的一些经验
 tags: [data, LLM]
 categories: [data]
