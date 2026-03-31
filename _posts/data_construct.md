@@ -13,11 +13,11 @@ toc:
 
 {% include figure.liquid loading="eager" path="assets/img/data_construct.png" class="img-fluid rounded z-depth-1" alt="LLM 造数据流程" caption="LLM 造数据的整体流程" %}
 
-1. 造业务数据 :  self-instruct
+1. 造业务数据 : self-instruct
 
 种子数据集 ：人工先生成少量精炼数据 (seed instructions)
 
-问题生成 ：llm根据种子问题 生成问题 然后进行质量过滤 
+问题生成 ：llm根据种子问题 生成问题 然后进行质量过滤
 
 问题格式去重 ： 基于长度，字符合法性，正则规则（重复性），去重
 
@@ -31,7 +31,7 @@ toc:
 
 合并数据集 ：
 
-继续重复上述过程 
+继续重复上述过程
 
 2. 思维链数据 ： cot蒸馏
 
@@ -43,13 +43,13 @@ toc:
 
 3. 造DPO数据集
 
-直接拿api 通过instruct分别生成好坏数据集  ：模型能力得不到真的提升
+直接拿api 通过instruct分别生成好坏数据集 ：模型能力得不到真的提升
 
 对于有ground truth 的任务，调高温度，基于self-consistency的方式采样多次，然后过滤掉模型不能回答正确的问题或者是模型全部都回答对的问题，对剩下的数据集进行规则过滤，尽量构建多维度差异较大的数据集
 
 对于无ground truth 的模型，可以用参数量较大和当前的模型分别采样，然后用embedding 模型分别编码，基于embedding对数据集进行相似度阙值过滤，最后还可以上一层 llm as judge 去进一步提炼数据
 
-4. 一些其他的业务数据处理经验 
+4. 一些其他的业务数据处理经验
 
 sft 会比 pretrain 阶段 引入未见过的 special token , 如 system, user ,assistant 等，还可以针对业务引入新的special token，来区分不同角色
 
