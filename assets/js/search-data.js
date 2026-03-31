@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "news-welcome-to-my-personal-website",
+        },{id: "post-llm-造数据的经验",
+        
+          title: "LLM 造数据的经验",
+        
+        description: "关于llm实践中造数据的一些经验",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/data-construct/";
+          
+        },
+      },{id: "news-welcome-to-my-personal-website",
           title: 'Welcome to my personal website! 🎉',
           description: "",
           section: "News",},{id: "projects-rlovrp",
