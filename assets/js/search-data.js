@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "post-llm-造数据的经验",
+        },{id: "post-claude-code-源码关注的一些细节",
+        
+          title: "Claude Code 源码关注的一些细节",
+        
+        description: "关于claude code源码中一些值得关注的设计细节",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/claude-code-analysis/";
+          
+        },
+      },{id: "post-llm-造数据的经验",
         
           title: "LLM 造数据的经验",
         
