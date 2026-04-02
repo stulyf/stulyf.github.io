@@ -32,3 +32,8 @@ Hi, I'm Yu-Feng Li (李昱锋), an undergraduate student majoring in Data Scienc
 My research interests lie in **deep learning**, **reinforcement learning**, and **large language model applications**.
 
 You can find more about my projects on [GitHub](https://github.com/stulyf) and [Kaggle](https://www.kaggle.com/crazyzzz7). You can find my resume [here](/assets/pdf/resume.pdf).
+
+## friends
+
+- **[Jianbo Zhou](https://88runaway.github.io)** — 华南理工大学本科生
+- **[Qirui Liu](https://RoschildRui.github.io)** — 华南理工大学本科生，腾讯实习
