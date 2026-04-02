@@ -30,6 +30,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
+        },{id: "nav-links",
+          title: "links",
+          description: "友情链接",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/links/";
+          },
         },{id: "post-claude-code-源码关注的一些细节",
         
           title: "Claude Code 源码关注的一些细节",
