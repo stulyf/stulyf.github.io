@@ -56,6 +56,21 @@ layout: default
       {% include latest_posts.liquid %}
     {% endif %}
 
+    <!-- Friends -->
+    {% if site.friends %}
+      <h2>friends</h2>
+      <ul>
+        {% for friend in site.friends %}
+          <li>
+            <strong
+              ><a href="{{ friend.url }}" target="_blank" rel="noopener noreferrer">{{ friend.name }}</a></strong
+            >
+            — {{ friend.description }}
+          </li>
+        {% endfor %}
+      </ul>
+    {% endif %}
+
     <!-- Selected papers -->
     {% if page.selected_papers %}
       <h2>
