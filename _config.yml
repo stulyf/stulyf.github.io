@@ -379,13 +379,13 @@ lazy_loading_images: true # enables lazy loading of images (recommended)
 # Friends
 # -----------------------------------------------------------------------------
 
-friends:
-  - name: Jianbo Zhou
-    url: https://88runaway.github.io
-    description: Undergraduate student at South China University of Technology
-  - name: Qirui Liu
-    url: https://RoschildRui.github.io
-    description: Undergraduate student at South China University of Technology, intern at Tencent
+# friends:
+#   - name: Jianbo Zhou
+#     url: https://88runaway.github.io
+#     description: Undergraduate student at South China University of Technology
+#   - name: Qirui Liu
+#     url: https://RoschildRui.github.io
+#     description: Undergraduate student at South China University of Technology, intern at Tencent
 
 # -----------------------------------------------------------------------------
 # Optional Features
