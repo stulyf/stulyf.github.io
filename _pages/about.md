@@ -33,4 +33,4 @@ My research interests lie in **deep learning**, **reinforcement learning**, and 
 
 Previously, I worked on **RL-based Neural Combinatorial Optimization for Multi-Robot routing problems**, with a focus on **multi-agent cooperation**, under the supervision of [Prof. Ya-Hui Jia](https://scholar.google.com/citations?user=Fos0baQAAAAJ&hl=zh-CN), which led to a paper submitted to T-ASE.
 
-You can find more about my projects on [GitHub](https://github.com/stulyf) and [Kaggle](https://www.kaggle.com/crazyzzz7). You can find my resume [here](/assets/pdf/resume-0404.pdf).
+You can find more about my projects on [GitHub](https://github.com/stulyf) and [Kaggle](https://www.kaggle.com/crazyzzz7).
