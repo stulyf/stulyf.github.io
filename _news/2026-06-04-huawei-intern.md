@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Excited to receive an internship offer from Huawei! I will be joining as an **AI Model Intern (Reinforcement Learning & Post-Training)** this summer. 🎉
+Excited to receive an internship offer from [Huawei](https://e.huawei.com/cn/products/computing)! I will be joining as an **AI Model Intern (Reinforcement Learning & Post-Training)** this summer. 🎉
